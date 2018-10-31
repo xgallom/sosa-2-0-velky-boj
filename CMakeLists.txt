@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.12)
+project(hacker_rank_cpp)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(bot_clean bot_clean.cpp)
+add_executable(var_sized_array var_sized_array.cpp)
+add_executable(max_index_prod max_index_prod.cpp)
+add_executable(max_element max_element.cpp)
+add_executable(hackerland hackerland.cpp)
+add_executable(attr_parser attr_parser.cpp)
+add_executable(maze_escape maze_escape.cpp)
+add_executable(castle_on_grid. castle_on_grid.cpp)
+add_executable(components components.cpp)
+add_executable(text_editor text_editor.cpp)
